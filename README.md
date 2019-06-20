@@ -1,4 +1,4 @@
-# PhoenixCource
+# PhoenixCourse
 
 To start your Phoenix server:
 
